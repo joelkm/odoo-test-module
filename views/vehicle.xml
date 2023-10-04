@@ -7,7 +7,7 @@
             <field name="view_mode">tree,form</field>
         </record>
 
-        <menuvehicle id="menu_vehicles"
+        <menuitem id="menu_vehicles"
         name="Vehicles"
         parent="menu_garage_root"
         action="action_garage_vehicle"

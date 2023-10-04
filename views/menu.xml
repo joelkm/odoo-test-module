@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
-    <menuvehicle id="menu_garage_root"
+    <menuitem id="menu_garage_root"
         name="Garage"
         sequence="10"/>
 
